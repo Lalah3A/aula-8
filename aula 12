@@ -1,0 +1,7 @@
+.contato__email::placeholder {
+    font-family: var(--fonte-Arial);
+    color: var(--rosa);
+    background: url("../img/Email.svg") no-repeat;
+    background: url("../img/Email.svg") no-repeat 15%;
+    padding-left: 6em;
+}
